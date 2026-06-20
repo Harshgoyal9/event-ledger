@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+*.iml
+.vscode
+
+# Build
+**/target
+**/*.jar
+**/*.class
+
+# Logs
+**/*.log
+**/logs
+
+# Temp files
+**/*.tmp
+**/*.temp
+
+# Documentation
+*.md
+!README.md
+
+# Tests
+**/src/test
